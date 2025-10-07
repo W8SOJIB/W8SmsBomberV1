@@ -245,7 +245,7 @@ Having issues? Need help?
 
 ## 🎉 Credits
 
-**Created by:** @@8Team/W8SOJIB
+**Created by:** @W8Team/W8SOJIB
 
 **Special Thanks:**
 - All the original script creators
